@@ -5,7 +5,7 @@ import { VictoryPie } from "victory-native"
 export default function Stats() {
   return (
     <View>
-      <Text>Stats!</Text>
+      <Text>Stats</Text>
     </View>
   )
 }
